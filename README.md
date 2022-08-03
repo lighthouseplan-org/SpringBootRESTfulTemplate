@@ -6,7 +6,7 @@ A SpringBoot project template for a restful backend
 - application.yml
 - i18n 多语言
 - 基本返回类型
-- log4j日志
+- log4j 日志
 - swagger ui 配置
 - spring security 登录认证认可配置
 - aws 配置
