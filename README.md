@@ -17,4 +17,4 @@ A SpringBoot project template for a restful backend
 - email service
 
 ## Controllers
-![](../../../../../var/folders/8g/wv541x257f7dybc5jzvcxwq40000gn/T/TemporaryItems/NSIRD_screencaptureui_ntAxTh/スクリーンショット 2022-08-03 20.21.19.png)
+![スクリーンショット 2022-08-03 20.57.15](https://tva1.sinaimg.cn/large/e6c9d24egy1h4ttry0i76j20u00xr427.jpg)
